@@ -4,6 +4,7 @@ README file created for my professional description
 
 ![Profile Banner](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![VueJS](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -15,7 +16,6 @@ README file created for my professional description
 Front-end developer with 5+ years of experience building responsive, high-performance web apps using **Angular**, **Vue.js**, **React**, **JavaScript**, **HTML**, and **CSS**.  
 Proven expertise in dashboards, UI/UX optimization, and unit testing (Jasmine, Karma).  
 Experienced with Agile, Jenkins, GitLab, and Rally.  
-Key contributor to projects like **Prism+**, **Aero Alliance**, and **ARMS-Aero Store**.  
 Now expanding my stack with **Node.js** and **MongoDB** for full-stack development.
 
 ---
