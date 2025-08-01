@@ -55,3 +55,43 @@ Now expanding my stack with **Node.js** and **MongoDB** for full-stack developme
 ---
 
 *Preferred color scheme: vibrant & creative. Love using emojis to express my personality!*
+
+
+----
+# 📦 Project Title
+
+A short description of what the project does and who it's for.
+
+## 🔗 Live Demo
+[Live Site](https://your-live-site.com)
+
+## 🧰 Tech Stack
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: GitHub, Postman, Vercel
+
+## ✨ Features
+- User authentication (JWT)
+- Responsive dashboard UI
+- Add/edit/delete inventory items
+- Role-based access (Admin/User)
+- Export data to Excel
+
+## 📸 Screenshots
+| Dashboard | Form |
+|----------|------|
+| ![](screenshot1.png) | ![](screenshot2.png) |
+
+## 🛠️ Setup Instructions
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/project-name.git
+
+# Install dependencies
+npm install
+
+# Start the project
+npm run dev
+
