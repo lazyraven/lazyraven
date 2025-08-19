@@ -27,8 +27,8 @@ Now expanding my stack with **Node.js** and **MongoDB** for full-stack developme
 - [vue-keep-notes](https://github.com/lazyraven/vue-keep-notes) – Vue note-keeping app
 - [jwtprojectauth-fullstack](https://github.com/lazyraven/jwtprojectauth-fullstack) – Fullstack JWT authentication project
 - [JavaScriptLessons](https://github.com/lazyraven/JavaScriptLessons) – JavaScript learning resources
-- [https://github.com/lazyraven/2025-all-coding-learning/tree/user-finder-app-chatgpt/user-finder-app] - https://user-finder-app-chatgpt.netlify.app/
-- [https://github.com/lazyraven/LearnHtml] - https://lazyraven.github.io/LearnHtml/
+- [user-finder-app-chatgpt](https://github.com/lazyraven/2025-all-coding-learning/tree/user-finder-app-chatgpt/user-finder-app) - https://user-finder-app-chatgpt.netlify.app/
+- [LearnHtml](https://github.com/lazyraven/LearnHtml)- https://lazyraven.github.io/LearnHtml/
 ---
 
 ## 🧠 Currently Learning & Exploring
