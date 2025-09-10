@@ -22,7 +22,8 @@ Now expanding my stack with **Node.js** and **MongoDB** for full-stack developme
 
 ## 🚀 Projects
 
-- [open-retro-react](https://github.com/lazyraven/open-retro-react) – Work history detail app
+- [open-retro-react](https://www.openretro.in/) – Work history detail app - (https://github.com/lazyraven/open-retro-react)
+- [full-stack-interview-roadmap](https://fullstack-interview-roadmap.netlify.app/) - I built a structured daily tracker to help developers prepare for interviews in: - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/react-roadmap)
 - [base-banner-alert-react](https://github.com/lazyraven/base-banner-alert-react) – Learning repo for React component design
 - [vue-keep-notes](https://github.com/lazyraven/vue-keep-notes) – Vue note-keeping app
 - [jwtprojectauth-fullstack](https://github.com/lazyraven/jwtprojectauth-fullstack) – Fullstack JWT authentication project
