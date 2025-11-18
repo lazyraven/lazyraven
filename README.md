@@ -21,7 +21,7 @@ Now expanding my stack with **Node.js** and **MongoDB** for full-stack developme
 ---
 
 ## 🚀 Projects
-
+- [developer-study-hub](https://lazyraven.github.io/developer-study-hub/) - Maintaining interview question related web development - (https://github.com/lazyraven/developer-study-hub)
 - [open-retro-react](https://www.openretro.in/) – Work history detail app - (https://github.com/lazyraven/open-retro-react)
 - [react-todo-app](https://lazyraven.github.io/react-todo-app-cursor/) – Todo list integration with signup & login page- (https://github.com/lazyraven/react-todo-app-cursor)
 - [full-stack-interview-roadmap](https://fullstack-interview-roadmap.netlify.app/) - I built a structured daily tracker to help developers prepare for interviews in: - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/react-roadmap)
