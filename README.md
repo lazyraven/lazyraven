@@ -25,11 +25,12 @@ Now expanding my stack with **Node.js** and **MongoDB** for full-stack developme
 - [open-retro-react](https://www.openretro.in/) – Work history detail app - (https://github.com/lazyraven/open-retro-react)
 - [react-todo-app](https://lazyraven.github.io/react-todo-app-cursor/) – Todo list integration with signup & login page- (https://github.com/lazyraven/react-todo-app-cursor)
 - [full-stack-interview-roadmap](https://fullstack-interview-roadmap.netlify.app/) - I built a structured daily tracker to help developers prepare for interviews in: - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/react-roadmap)
+- [user-finder-app-chatgpt](https://user-finder-app-chatgpt.netlify.app/)  - User Finder App - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/user-finder-app)
+- [firebase-fullstack-roadmap](https://roadmap-fullstack.netlify.app/)  - Firebase Fullstack Roadmap -(https://github.com/lazyraven/learning-enhancement-practice)
 - [base-banner-alert-react](https://github.com/lazyraven/base-banner-alert-react) – Learning repo for React component design
 - [vue-keep-notes](https://github.com/lazyraven/vue-keep-notes) – Vue note-keeping app
 - [jwtprojectauth-fullstack](https://github.com/lazyraven/jwtprojectauth-fullstack) – Fullstack JWT authentication project
 - [JavaScriptLessons](https://github.com/lazyraven/JavaScriptLessons) – JavaScript learning resources
-- [user-finder-app-chatgpt](https://github.com/lazyraven/2025-all-coding-learning/tree/user-finder-app-chatgpt/user-finder-app) - https://user-finder-app-chatgpt.netlify.app/
 - [LearnHtml](https://github.com/lazyraven/LearnHtml)- https://lazyraven.github.io/LearnHtml/
 ---
 
