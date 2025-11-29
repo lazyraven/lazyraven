@@ -1,101 +1,117 @@
-# Lazyraven-README
-README file created for my professional description
-# 🎨 Nisha Yadav | Front-end → Full-Stack Developer
+# 🎨 Nisha Yadav — Front-End → Full-Stack Developer
 
-![Profile Banner](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![VueJS](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+JavaScript developer with **5+ years** of experience building scalable UI applications using **Angular, Vue, and React**.  
+Currently expanding into **Node.js & MongoDB** and exploring **AI + developer tooling**.
 
 ---
 
-## 👩‍💻 About Me
+## 📚 Table of Contents
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Learning Path](#learning-path)
+- [Workflow](#workflow)
+- [Hobbies](#hobbies)
+- [Resources](#resources)
+- [Connect](#connect)
 
-Front-end developer with 5+ years of experience building responsive, high-performance web apps using **Angular**, **Vue.js**, **React**, **JavaScript**, **HTML**, and **CSS**.  
-Proven expertise in dashboards, UI/UX optimization, and unit testing (Jasmine, Karma).  
-Experienced with Agile, Jenkins, GitLab, and Rally.  
-Now expanding my stack with **Node.js** and **MongoDB** for full-stack development.
+---
+
+## 👩‍💻 About
+
+Front-end focused engineer experienced in:
+- UI dashboards & performance optimization
+- Unit testing (Jasmine, Karma)
+- Agile teams & CI/CD (GitLab, Jenkins, Rally)
+
+Now transitioning into **Full-Stack development** with backend APIs and databases.
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Tools |
+|---------|-------|
+| Frontend | Angular, Vue.js, React, HTML, CSS |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Testing | Jasmine, Karma |
+| DevOps | GitLab, Jenkins |
+| Tools | GitHub, Vercel, Postman |
 
 ---
 
 ## 🚀 Projects
-- [developer-study-hub](https://lazyraven.github.io/developer-study-hub/) - Maintaining interview question related web development - (https://github.com/lazyraven/developer-study-hub)
-- [open-retro-react](https://www.openretro.in/) – Work history detail app - (https://github.com/lazyraven/open-retro-react)
-- [react-todo-app](https://lazyraven.github.io/react-todo-app-cursor/) – Todo list integration with signup & login page- (https://github.com/lazyraven/react-todo-app-cursor)
-- [full-stack-interview-roadmap](https://fullstack-interview-roadmap.netlify.app/) - I built a structured daily tracker to help developers prepare for interviews in: - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/react-roadmap)
-- [user-finder-app-chatgpt](https://user-finder-app-chatgpt.netlify.app/)  - User Finder App - (https://github.com/lazyraven/2025-all-coding-learning/tree/main/user-finder-app)
-- [firebase-fullstack-roadmap](https://roadmap-fullstack.netlify.app/)  - Firebase Fullstack Roadmap -(https://github.com/lazyraven/learning-enhancement-practice)
-- [base-banner-alert-react](https://github.com/lazyraven/base-banner-alert-react) – Learning repo for React component design
-- [vue-keep-notes](https://github.com/lazyraven/vue-keep-notes) – Vue note-keeping app
-- [jwtprojectauth-fullstack](https://github.com/lazyraven/jwtprojectauth-fullstack) – Fullstack JWT authentication project
-- [JavaScriptLessons](https://github.com/lazyraven/JavaScriptLessons) – JavaScript learning resources
-- [LearnHtml](https://github.com/lazyraven/LearnHtml)- https://lazyraven.github.io/LearnHtml/
----
 
-## 🧠 Currently Learning & Exploring
-
-- Node.js & MongoDB backend development
-- AI tools, LLMs, prompt engineering
-- GitHub Copilot
-- Always open to learning new things to grow my knowledge & personality!
+| Project | Description | Live | Repo |
+|--------|----------------|------|------|
+| **Developer Study Hub** | Web dev interview prep | [Live](https://lazyraven.github.io/developer-study-hub/) | [Repo](https://github.com/lazyraven/developer-study-hub) |
+| **Open Retro React** | Work history tracker | [Live](https://www.openretro.in/) | [Repo](https://github.com/lazyraven/open-retro-react) |
+| **React Todo App** | Auth + CRUD Todo | [Live](https://lazyraven.github.io/react-todo-app-cursor/) | [Repo](https://github.com/lazyraven/react-todo-app-cursor) |
+| **Full-Stack Roadmap** | Interview daily tracker | [Live](https://fullstack-interview-roadmap.netlify.app/) | [Repo](https://github.com/lazyraven/2025-all-coding-learning/tree/main/react-roadmap) |
+| **User Finder App** | ChatGPT + API demo | [Live](https://user-finder-app-chatgpt.netlify.app/) | [Repo](https://github.com/lazyraven/2025-all-coding-learning/tree/main/user-finder-app) |
+| **Firebase Roadmap** | Full-stack roadmap | [Live](https://roadmap-fullstack.netlify.app/) | [Repo](https://github.com/lazyraven/learning-enhancement-practice) |
+| **JWT Auth Project** | Auth + APIs | — | [Repo](https://github.com/lazyraven/jwtprojectauth-fullstack) |
+| **Vue Keep Notes** | Notes app | — | [Repo](https://github.com/lazyraven/vue-keep-notes) |
+| **JS Lessons** | JS learning repo | — | [Repo](https://github.com/lazyraven/JavaScriptLessons) |
+| **HTML Learning** | HTML practice | [Live](https://lazyraven.github.io/LearnHtml/) | [Repo](https://github.com/lazyraven/LearnHtml) |
 
 ---
 
-## 🎨 Hobbies & Interests
+## 🧠 Learning Path
 
-- Painting & sketching 🖌️
-- Dancing 💃
-- Listening to music 🎶
-- Exploring new tech & creative ideas 🚀
+```mermaid
+flowchart LR
+    FE[Frontend Mastery] --> API[Node.js APIs]
+    API --> DB[MongoDB]
+    DB --> AUTH[JWT Authentication]
+    AUTH --> DEPLOY[CI/CD + Vercel]
+    DEPLOY --> AI[AI Tools & LLMs]
+```
+---
+
+## 🔁 Workflow
+
+```mermaid
+sequenceDiagram
+    participant Dev as Developer
+    participant GH as GitHub
+    participant CI as CI Pipeline
+    participant Test as Testing
+    participant Build as Build
+    participant Deploy as Vercel
+    participant User as End User
+
+    Dev->>GH: Push code
+    GH-->>CI: Trigger pipeline
+    CI->>Test: Run unit tests
+    Test-->>Build: Build application
+    Build-->>Deploy: Deploy to hosting
+    Deploy-->>User: Serve live site
+```
+---
+
+## 📎 Resources
+| Resource             | Link                                                           |
+| -------------------- | -------------------------------------------------------------- |
+| JavaScript Reference | [https://developer.mozilla.org](https://developer.mozilla.org) |
+| React Docs           | [https://react.dev](https://react.dev)                         |
+| Vue Docs             | [https://vuejs.org](https://vuejs.org)                         |
+| Angular Docs         | [https://angular.io](https://angular.io)                       |
+| Node.js Docs         | [https://nodejs.org](https://nodejs.org)                       |
+| MongoDB Docs         | [https://mongodb.com](https://mongodb.com)                     |
+| AI Prompting         | [https://learnprompting.org](https://learnprompting.org)       |
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishayadav1703/)
+## 🎨 Hobbies
+| Interest             | Emoji |
+| -------------------- | ----- |
+| Painting & Sketching | 🖌️   |
+| Dancing              | 💃    |
+| Music                | 🎶    |
+| Creative Tech        | 🚀    |
 
 ---
-
-*Preferred color scheme: vibrant & creative. Love using emojis to express my personality!*
-
-
-----
-# 📦 Project Title
-
-A short description of what the project does and who it's for.
-
-## 🔗 Live Demo
-[Live Site](https://your-live-site.com)
-
-## 🧰 Tech Stack
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: GitHub, Postman, Vercel
-
-## ✨ Features
-- User authentication (JWT)
-- Responsive dashboard UI
-- Add/edit/delete inventory items
-- Role-based access (Admin/User)
-- Export data to Excel
-
-## 📸 Screenshots
-| Dashboard | Form |
-|----------|------|
-| ![](screenshot1.png) | ![](screenshot2.png) |
-
-## 🛠️ Setup Instructions
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/project-name.git
-
-# Install dependencies
-npm install
-
-# Start the project
-npm run dev
-
+## 🌐 Connect
+LinkedIn: https://www.linkedin.com/in/nishayadav1703/
