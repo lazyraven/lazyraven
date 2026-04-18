@@ -45,7 +45,6 @@ Now transitioning into **Full-Stack development** with backend APIs and database
 
 | Project | Description | Live | Repo |
 |--------|----------------|------|------|
- - https://github.com/lazyraven/portfolio-nisha-fullstack/ - https://nisha-portfolio-react.netlify.app/
 | **Nisha Portfolio** | Portfolio | [Live](https://lifecodewithnisha.in/) | [Repo](https://github.com/lazyraven/portfolio-nisha-fullstack/) |
 | **Nisha Portfolio Test** | Portfolio-Test | [Live](https://nisha-portfolio-react.netlify.app/) | [Repo](https://github.com/lazyraven/nisha-portfolio/tree/main/portfolio-react-vite) |
 | **Developer Study Hub** | Web dev interview prep | [Live](https://lazyraven.github.io/developer-study-hub/) | [Repo](https://github.com/lazyraven/developer-study-hub) |
