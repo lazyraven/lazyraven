@@ -54,7 +54,7 @@ Now transitioning into **Full-Stack development** with backend APIs and database
 | **User Finder App** | ChatGPT + API demo | [Live](https://user-finder-app-chatgpt.netlify.app/) | [Repo](https://github.com/lazyraven/2025-all-coding-learning/tree/main/user-finder-app) |
 | **Firebase Roadmap** | Full-stack roadmap | [Live](https://roadmap-fullstack.netlify.app/) | [Repo](https://github.com/lazyraven/learning-enhancement-practice) |
 | **JWT Auth Project** | Auth + APIs | — | [Repo](https://github.com/lazyraven/jwtprojectauth-fullstack) |
-| **Full-Stack Roadmap** | Interview daily tracker | [Live]() | [Repo](https://github.com/lazyraven/worksphere) |
+| **Saas/Worksphere Project** | Full Stack | [Live]() | [Repo](https://github.com/lazyraven/worksphere) |
 | **Vue Keep Notes** | Notes app | — | [Repo](https://github.com/lazyraven/vue-keep-notes) |
 | **JS Lessons** | JS learning repo | — | [Repo](https://github.com/lazyraven/JavaScriptLessons) |
 | **HTML Learning** | HTML practice | [Live](https://lazyraven.github.io/LearnHtml/) | [Repo](https://github.com/lazyraven/LearnHtml) |
